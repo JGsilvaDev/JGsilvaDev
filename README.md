@@ -1,7 +1,11 @@
-<div align="center">
+<div>
   <h1>Eu sou o João Gabriel 🤙</h1>
-  <h4>Desenvolvedor Back-End com um pezinho no Front-End</h4>
 </div>
+
+<ul>
+  <li>🚀 Desenvolvedor Back-End com um pezinho Front-End</li>
+  <li>🔭 Cursando Engenharia da Computação</li>
+</ul><br>
 
 <div align="center">
   <a href="https://github.com/JGsilvaDev">
