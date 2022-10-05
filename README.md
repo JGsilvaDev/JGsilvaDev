@@ -1,7 +1,7 @@
-### Eu sou o João Gabriel 🤙
-#Desenvolvedor Back-End com um pezinho no Front-End
-
-##
+<div align="center">
+  <h1>Eu sou o João Gabriel 🤙</h1>
+  <h4>Desenvolvedor Back-End com um pezinho no Front-End</h4>
+</div>
 
 <div align="center">
   <a href="https://github.com/JGsilvaDev">
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGsilvaDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block" align="center"><br/>
 
   <img height="40em" align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40em" align="center" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
