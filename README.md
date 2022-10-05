@@ -21,9 +21,3 @@
 ##
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Jg.oliveiras)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-silva-56406a210)
-
-![Snake animation](https://github.com/JGsilvaDev/JGsilvaDev/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
