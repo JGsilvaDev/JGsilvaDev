@@ -3,8 +3,8 @@
 </div>
 
 <ul>
-  <li>🚀 Desenvolvedor Back-End com um pezinho Front-End</li>
-  <li>🔭 Cursando Engenharia da Computação</li>
+  <li>🚀 Desenvolvedor Back-End com um pezinho Front-End.</li>
+  <li>🔭 Cursando Engenharia da Computação.</li>
 </ul><br>
 
 <div align="center">
