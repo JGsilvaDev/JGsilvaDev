@@ -31,8 +31,9 @@
 ### Studing in this moment:
 <div style="display: inline_block">
     <img height="40em" align="center" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-  <img height="40em" align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;
-  <img align="center" alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img height="40em" align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;
+    <img align="center" alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img align="center" alt="REACT" src="https://img.shields.io/badge/React-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </div>
 
 <div align="center">
