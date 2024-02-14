@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header&fontSize=90" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=900&color=FA8072&center=true&width=1000&lines=Hello+My+name+is+Jo%C3%A3o+Gabriel;I'm+22+years+old+and+I'm+from+Brazil;7%2F10+Computer+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=900&color=FA8072&center=true&width=1000&lines=Hello+My+name+is+Jo%C3%A3o+Gabriel;I'm+23+years+old+and+I'm+from+Brazil;7%2F10+Computer+Engineering)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JGsilvaDev&show_icons=true&count_private=true&title_color=FA8072&icon_color=B22222&bg_color=0d1117&text_color=FFFFFF&hide_border=true"/>
