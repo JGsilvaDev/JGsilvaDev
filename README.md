@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header&fontSize=90" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=900&color=FA8072&center=true&width=1000&lines=Hello+My+name+is+Jo%C3%A3o+Gabriel;I'm+24+years+old+and+I'm+from+Brazil;8%2F10+Computer+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=900&color=FA8072&center=true&width=1000&lines=Hello+My+name+is+Jo%C3%A3o+Gabriel;I'm+24+years+old+and+I'm+from+Brazil;9%2F10+Computer+Engineer)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre Mim
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Com uma forte base em **PHP**, **Laravel** e **Python**, estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias. Meu foco é desenvolver soluções eficientes e escaláveis que resolvam problemas do mundo real.
