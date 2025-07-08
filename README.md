@@ -75,10 +75,4 @@ Valorizo boas práticas de desenvolvimento, aprendizado contínuo e colaboraçã
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGsilvaDev&layout=compact&theme=radical&hide_border=true" />
 </div>
 
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/JGsilvaDev/count.svg" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=150&section=footer"/>
