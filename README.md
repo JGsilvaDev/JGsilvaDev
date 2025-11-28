@@ -53,7 +53,7 @@ Valorizo boas práticas de desenvolvimento, aprendizado contínuo e colaboraçã
 
 - 🔹 [Projeto de Mapeamento de Rotas](https://github.com/JGsilvaDev/projeto-mapeamento) — Sistema de rotas internas com algoritmos de grafos e canvas interativo.
 - 🔹 [PyChess API](https://github.com/JGsilvaDev/Pychess-API) — API que integra o motor de xadrez Stockfish para análises via requisições HTTP.
-- 🔹 [PyChess Front](https://github.com/JGsilvaDev/Pychess-Front) — Plaforma que interaja com o PyChess API.
+- 🔹 [PyChess Front](https://github.com/JGsilvaDev/Pychess-Front) — Plataforma que interaja com o PyChess API.
 - 🔹 [Projeto IA de Reconhecimento de Sentimentos](https://github.com/JGsilvaDev/projeto-bacaxinho-web) — Assistente virtual com análise de sentimentos integrada à interface web.
 
 ---
