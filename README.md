@@ -71,7 +71,7 @@ Frontend application consuming PyChess API with structured component organizatio
 ### 🔹 Route Mapping System
 Graph-based internal routing system with interactive visualization and algorithmic logic.
 
-👉 https://github.com/JGsilvaDev/projeto-mapeamento
+👉 https://github.com/JGsilvaDev/Grafos
 
 ---
 
