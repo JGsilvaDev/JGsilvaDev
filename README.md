@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=150&section=header&fontSize=50&fontColor=ffffff"/>
 
-<h2 align="center">Backend Developer • Python (FastAPI) • REST API Architecture • Systems Integration • SQL</h2>
+<h2 align="center">Full Stack Developer • Node.js • React • Next.js • TypeScript • REST APIs</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-silva/">LinkedIn</a> • 
@@ -11,21 +11,23 @@
 
 ## 👨‍💻 About Me
 
-Backend Developer focused on building scalable REST APIs and corporate systems.
+Full Stack Developer focused on building scalable web applications and corporate systems using Node.js, React and Next.js.
 
-Experience in database modeling, business rule implementation, access control, and system integration. Passionate about designing structured architectures that improve operational efficiency and enable data-driven decision making.
+Experience in backend development, REST API integration, database modeling and business rule implementation, contributing to process automation and operational efficiency.
 
-Strong interest in clean architecture, performance optimization and maintainable backend systems.
+Passionate about structured architectures, clean code, performance optimization and building maintainable systems with real business impact.
 
 ---
 
 ## 🏗 Engineering Focus
 
-- REST API Design (FastAPI)
+- Full Stack Web Development
+- REST API Design
+- React & Next.js Applications
+- Node.js Backend Development
 - Database Modeling (MySQL, Oracle)
-- Business Rule Implementation
-- Role-Based Access Control (RBAC)
 - Systems Integration
+- Role-Based Access Control (RBAC)
 - Process Automation
 - Performance Optimization
 - Clean Code & Structured Architecture
@@ -36,9 +38,11 @@ Strong interest in clean architecture, performance optimization and maintainable
 ## 🛠 Tech Stack
 
 ### Backend
+- Node.js
+- TypeScript
+- REST APIs
 - Python
 - FastAPI
-- REST APIs
 - SQL
 - MySQL
 - Oracle
@@ -54,22 +58,27 @@ Strong interest in clean architecture, performance optimization and maintainable
 ## 🌟 Featured Projects
 
 ### 🔹 PyChess API
-REST API built with FastAPI integrating the Stockfish engine for chess analysis.  
-Structured with modular architecture, request validation and scalable endpoints.
+REST API built for chess analysis and game integration, following structured backend architecture and scalable endpoint organization.
+
+**Stack:** Python • FastAPI • REST APIs • SQL • Stockfish
 
 👉 https://github.com/JGsilvaDev/Pychess-API
 
 ---
 
 ### 🔹 PyChess Front
-Frontend application consuming PyChess API with structured component organization.
+Frontend application built with React/Next.js consuming REST APIs, focused on component organization, asynchronous data flow and responsive interface structure.
+
+**Stack:** React • Next.js • TypeScript • REST APIs
 
 👉 https://github.com/JGsilvaDev/Pychess-Front
 
 ---
 
 ### 🔹 Route Mapping System
-Graph-based internal routing system with interactive visualization and algorithmic logic.
+Graph-based route mapping system with interactive visualization and shortest-path calculation logic for internal navigation.
+
+**Stack:** Python • Flask • JavaScript • Graph Algorithms
 
 👉 https://github.com/JGsilvaDev/Grafos
 
@@ -82,5 +91,7 @@ Graph-based internal routing system with interactive visualization and algorithm
 - Scrum Fundamentals Certified  
 - Lean Six Sigma – Yellow Belt  
 - AI Fundamentals for Developers  
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
